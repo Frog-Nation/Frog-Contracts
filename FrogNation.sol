@@ -697,7 +697,7 @@ contract FrogNation is Context, IERC20, Ownable {
     uint256 private _tFeeTotal;
 
     string private _name = "Frog Nation";
-    string private _symbol = "FROG🐸";
+    string private _symbol = "FRAUG"; //changedticker to differentiate from scem FROG
     uint8 private _decimals = 9;
     
     uint256 public _taxFee = 2;
